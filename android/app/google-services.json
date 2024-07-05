@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995457321959",
+    "project_id": "christianhub-10333",
+    "storage_bucket": "christianhub-10333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995457321959:android:2a12c96b80e65f2e6e0b42",
+        "android_client_info": {
+          "package_name": "com.mycompany.christianhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRpu_kfefowUkVZ5TZhbI4MAkt5qhYD90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
